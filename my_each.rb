@@ -1,3 +1,1 @@
-def my_each # put argument(s) here
-  # code here
-end
+We can tell our #hello_t method to return the original array
